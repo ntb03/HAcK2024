@@ -69,7 +69,7 @@ client.on('connect', async () => {
 
   client.subscribe("humidity", (err) => {
     if (err) {
-      console.error("Subscription error for 'temp': ", err);
+      console.error("Subscription error for 'humidity': ", err);
     } else {
       console.log("Subscribed to 'humidity'");
     }
