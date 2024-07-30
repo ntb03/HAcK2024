@@ -1,7 +1,7 @@
 # FOREWORD
 - The CameraWebServer is separate code that is uploaded to the ESP-32 Camera
 - Change the SSID and Password in CameraWebServer/CameraWebServer.ino
-- Change each value in constants.py
+- Change each value in pico/constants.py
 
 
 # STARTING THIS PROJECT - removing the .git folder
