@@ -1,5 +1,6 @@
 # FOREWORD
-- The CameraWebServer is separate code that is uploaded to the ESP-32 Camera
+- The CameraWebServer is uploaded to the ESP-32 Camera
+- All of the Pico code is uploaded to the Raspberry Pi Pico W
 - Change the SSID and Password in CameraWebServer/CameraWebServer.ino
 - Change each value in pico/constants.py
 
@@ -8,7 +9,7 @@
 
 - first of all, clone the repo onto your desktop using
     git clone https://github.com/ntb03/HAcK2024
-- then, navigate into the repository using cd
+-  then, navigate into the repository using cd
 - once you are in the HaCK-backend repository in the terminal, run
      rm -rf .git
 - This will remove the .git folder from your project, so you can now run 
