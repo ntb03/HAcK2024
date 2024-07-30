@@ -3,7 +3,7 @@
 - All of the Pico code is uploaded to the Raspberry Pi Pico W
 - Change the SSID and Password in CameraWebServer/CameraWebServer.ino
 - Change each value in pico/constants.py
-- The vast majority of this code (and the rest of this readme) comes from mentor Ryan Carney: https://github.com/ryancarneyy/HaCK-backend
+- Most of this code (and the rest of this readme) comes from mentor Ryan Carney: https://github.com/ryancarneyy/HaCK-backend
 
 
 # STARTING THIS PROJECT - removing the .git folder
