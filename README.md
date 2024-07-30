@@ -34,7 +34,7 @@
     - create variables with these names, that contain a string of these
         - THESE VARIABLES SHOULD NOT BE STRINGS, JUST PLAIN TEXT
         - CONNECT_URL: contains a of the url for the MQTT broker
-            - THIS URL SHOULD CONTAIN: mqtts://urlofyourbroker.edu:8883
+            - THIS URL SHOULD CONTAIN: mqtts://urlofyourbroker:8883
         - MQTT_USER: contains the username of the credential you created for your node server
         - MQTT_PASS: contains the password of the credential that you created for your node server
 - With these set up, you will be able to run your node server through port 8000, which will subscribe to 2 topics, 'temp' and 'ultrasonic', which you will be able to change if you please.
