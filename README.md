@@ -1,8 +1,13 @@
+# FOREWORD
+- The CameraWebServer is separate code that is uploaded to the ESP-32 Camera
+- Change the SSID and Password in CameraWebServer/CameraWebServer.ino
+- Change each value in constants.py
+
 
 # STARTING THIS PROJECT - removing the .git folder
 
 - first of all, clone the repo onto your desktop using
-    git clone https://github.com/ryancarneyy/HaCK-backend
+    git clone https://github.com/ntb03/HAcK2024
 - then, navigate into the repository using cd
 - once you are in the HaCK-backend repository in the terminal, run
      rm -rf .git
