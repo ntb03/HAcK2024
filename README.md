@@ -34,12 +34,12 @@
         - THESE VARIABLES SHOULD NOT BE STRINGS, JUST PLAIN TEXT
         - CONNECT_URL: contains a of the url for the MQTT broker
             - THIS URL SHOULD CONTAIN: mqtts://urlofyourbroker.edu:8883
-        - CONNECT_USER: contains the username of the credential you created for your node server
+        - MQTT_USER: contains the username of the credential you created for your node server
         - MQTT_PASS: contains the password of the credential that you created for your node server
 - With these set up, you will be able to run your node server through port 8000, which will subscribe to 2 topics, 'temp' and 'ultrasonic', which you will be able to change if you please.
     - run the node server by running 
         "node index.js" in your backend directory which you have taken off of my github
-    - if you see "subscribed to temp" and "subscribed to ultrasonic" you should be good and connected! 
+    - if you see  "subscribed to ultrasonic" and "subscribed to temp" and and "subscribed to humidity" you should be good and connected! 
 
 
 
