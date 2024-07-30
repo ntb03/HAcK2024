@@ -1,0 +1,38 @@
+.App {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.page-title {
+    text-align: center;
+    font-size: 30px;
+    background-color: green;
+    width: 100%;
+    top: 0;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-weight: bold;
+}
+
+.vid-feed {
+    margin-top: 15px;
+    background-color: white;
+    text-align: center;
+}
+
+.environment-data {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 95%;
+    margin-inline: 35px;
+}
+
+.data {
+    margin: 15px;
+}
+
+.control-display {
+    margin-left: 15px;
+}

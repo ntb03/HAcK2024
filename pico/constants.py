@@ -1,0 +1,5 @@
+ssid = 'Viper24'
+pwd = 'p4ssw0rd!'
+mqtt_server = '34db4542319943d69d22f685d7ee5c64.s1.eu.hivemq.cloud'
+mqtt_user = 'picow'
+mqtt_pass = 'P4ssw0rd'
